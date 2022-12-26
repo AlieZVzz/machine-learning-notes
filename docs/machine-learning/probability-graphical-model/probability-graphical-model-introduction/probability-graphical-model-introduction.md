@@ -128,7 +128,7 @@ Koller 那本废话好多，看半天还没看到正题，要看很久很久才�
 
 如果题主需要学习 CRF 或者序列标注模型的话，我推荐一个教程：
 
-[[1011.4088] An Introduction to Conditional Random Fieldsarxiv.org](https://arxiv.org/abs/1011.4088)
+[[1011.4088] An Introduction to Conditional Random Fields (arxiv.org)](https://arxiv.org/abs/1011.4088)
 
 这份教程只有 90 页，虽然内容主要针对 CRF （以及相关的 HMM 等模型），但是却回顾了 PGM 里的重要概念以及建模、训练、推断的全部套路，由此可以掌握 PGM 的方法论，别的 PGM 模型也能分分钟上手。
 
